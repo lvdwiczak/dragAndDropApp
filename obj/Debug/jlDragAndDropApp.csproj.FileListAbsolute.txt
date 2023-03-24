@@ -1,0 +1,11 @@
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\bin\Debug\jlDragAndDropApp.exe.config
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\bin\Debug\jlDragAndDropApp.exe
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\bin\Debug\jlDragAndDropApp.pdb
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\obj\Debug\jlDragAndDropApp.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\obj\Debug\jlDragAndDropApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\obj\Debug\jlDragAndDropApp.Form1.resources
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\obj\Debug\jlDragAndDropApp.Properties.Resources.resources
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\obj\Debug\jlDragAndDropApp.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\obj\Debug\jlDragAndDropApp.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\obj\Debug\jlDragAndDropApp.exe
+C:\Users\jakub\source\repos\jlDragAndDropApp\jlDragAndDropApp\obj\Debug\jlDragAndDropApp.pdb
